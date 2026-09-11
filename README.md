@@ -6,5 +6,5 @@
 
 ## Most of my projects are private as of now
 
-<img width="206" height="1178" alt="IMG_120" src="https://github.com/user-attachments/assets/b061f1ef-96c5-4530-b9e5-bc40b5204cb1" />
+<img width="206" height="178" alt="IMG_120" src="https://github.com/user-attachments/assets/b061f1ef-96c5-4530-b9e5-bc40b5204cb1" />
 
