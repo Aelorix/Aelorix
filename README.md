@@ -1,5 +1,7 @@
 ### scuffed dev stuff
 
+Contact me at zombiedevv@gmail.com or @ZombieDevv on discord
+
 I work with Python, java, and c#
 
 Most of my stuff is related to server backends
