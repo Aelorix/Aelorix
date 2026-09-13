@@ -1,4 +1,4 @@
-### scuffed dev stuff
+### scuffed backend dev
 
 Contact me at zombiedevv@gmail.com or @ZombieDevv on discord
 
