@@ -8,7 +8,7 @@ Most of my stuff is related to server backends
 
 Most of my projects are private as of now
 
-<img width="920" height="536" alt="wallpaper" src="https://github.com/user-attachments/assets/34033421-1bef-4519-a369-ebf2b2ab86be" />
+<img width="20" height="36" alt="wallpaper" src="https://github.com/user-attachments/assets/34033421-1bef-4519-a369-ebf2b2ab86be" />
 
 
 
