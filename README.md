@@ -8,5 +8,6 @@ Most of my stuff is related to server backends
 
 Most of my projects are private as of now
 
-<img width="306" height="278" alt="IMG_120" src="https://github.com/user-attachments/assets/b061f1ef-96c5-4530-b9e5-bc40b5204cb1" />
+<img width="560" height="440" alt="sovietsnow" src="https://github.com/user-attachments/assets/5427f187-8293-431b-81b8-a837d93ba455" />
+
 
